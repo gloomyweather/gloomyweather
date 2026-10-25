@@ -6,5 +6,6 @@ small, quiet tools for the terminal and [omarchy](https://omarchy.org).
 - [todoterm](https://github.com/gloomyweather/todoterm): a minimalist task manager for the terminal
 - [jot](https://github.com/gloomyweather/jot): quick notes for the terminal
 - [ember](https://github.com/gloomyweather/omarchy-ember-theme): a black-and-white omarchy theme with one orange accent ([light](https://github.com/gloomyweather/omarchy-ember-light-theme))
+- [mono](https://github.com/gloomyweather/omarchy-mono-theme): a grayscale omarchy theme with real colors in the terminal
 
 [gloomyweather.github.io](https://gloomyweather.github.io)
